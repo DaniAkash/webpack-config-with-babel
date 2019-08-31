@@ -6,7 +6,8 @@
   "scripts": {
     "echo": "echo $PATH",
     "build": "babel src -d lib",
-    "build-webpack": "webpack"
+    "build-webpack": "webpack",
+    "start:dev": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",

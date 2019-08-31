@@ -46,3 +46,6 @@ const hemanth = new Human("Hemanth", 22, "male");
 
 const someAge = sathya.age; //getter
 sathya.age = 45; //setter
+
+console.log(sathya);
+console.log(someAge);
